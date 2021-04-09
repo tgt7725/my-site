@@ -1,0 +1,25 @@
+.DS_Store
+node_modules
+/dist
+个人空间前台页面接口文档.md
+项目总结.md
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
