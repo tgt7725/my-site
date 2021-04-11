@@ -9,7 +9,7 @@ Mock.mock('/api/setting', {
         github: "https://github.com/tgt7725",
         qq: "2311965299",
         qqQrCode: "https://passport.baidu.com/export/app/img/qrcode_0812.png",
-        weixin: "tgt_20007725",
+        weixin: "tgt_2000",
         weixinQrCode: "https://passport.baidu.com/export/app/img/qrcode_0812.png",
         mail: "2311965299@qq.com",
         icp: "黑ICP备17001719号",

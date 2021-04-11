@@ -37,6 +37,15 @@ export default [
         component: getPageComponent(() => import(/* webpackChunkName: "home" */ "@/views/Home"))
     },
     {
+        path: '/index.html',
+        name: 'Home',
+        meta: {
+            title: '首页'
+        },
+        // component: () => import(/* webpackChunkName: "home" */ "@/views/Home")
+        component: getPageComponent(() => import(/* webpackChunkName: "home" */ "@/views/Home"))
+    },
+    {
         path: '/blog',
         name: 'Blog',
         meta: {
