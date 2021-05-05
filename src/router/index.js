@@ -10,7 +10,7 @@ if(!window.VueRouter) {
 
 const router = new VueRouter({
 	routes,
-	mode: 'history'
+	// mode: 'history'
 })
 
 router.afterEach((to, from) => {
